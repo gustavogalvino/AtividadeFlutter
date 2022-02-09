@@ -1,6 +1,6 @@
-# ac03
+# Atividade Prática de Flutter
 
-A new Flutter project.
+App com exibição das 7 maravilhas e um timer
 
 ## Getting Started
 
